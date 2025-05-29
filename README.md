@@ -5,7 +5,6 @@
 Plan smarter. Attend better. 🎊  
 EventEase helps you organize and track events with invites, RSVPs, and reminders.
 
-![EventEase Preview](https://via.placeholder.com/800x400.png?text=EventEase+App)
 
 ## ✨ Features
 - 🗓️ Create & manage events with details
